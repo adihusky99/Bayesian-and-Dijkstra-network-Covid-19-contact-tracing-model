@@ -1,6 +1,6 @@
 """
 COVID-19 Bayesian Network — Final Project (CS 5002)
-Authors: Aditya, James, Yevgeniy
+Authors: Aditya
 
 Purpose:
   How certain can we be that a person has COVID-19 given their test result,
