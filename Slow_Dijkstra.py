@@ -6,7 +6,7 @@ from datetime import datetime
 
 '''
 Contact Network
-Authors: Aditya, James, Yevgeniy
+Authors: Aditya
 
 Purpose:
 This network is meant to imitate a small sample size of people (200) and group
