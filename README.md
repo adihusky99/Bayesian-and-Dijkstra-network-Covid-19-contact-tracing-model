@@ -1,6 +1,5 @@
 # COVID-19 Bayesian Network
-
-**CS 5002 Final Project**  
+ 
 **Authors:** Aditya Elayavalli
 **Date:** April 2026
 
